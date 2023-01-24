@@ -14,5 +14,4 @@ class WebDriverConf(unittest.TestCase):
 
     def tearDown(self):
         if self.driver is not None:
-            self.driver.close()
             self.driver.quit()
