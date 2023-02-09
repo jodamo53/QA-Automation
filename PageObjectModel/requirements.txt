@@ -1,0 +1,4 @@
+selenium==4.0.0.a7
+webdriver-manager==3.8.5
+pytest==7.2.1
+six==1.16.0
