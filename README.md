@@ -71,6 +71,7 @@ If you know how to clone a repository from github please do it, If you don’t k
  
  - https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/
  - https://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html
+ - https://pypi.org/project/webdriver-manager/
  
     
     
